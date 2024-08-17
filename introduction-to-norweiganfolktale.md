@@ -33,3 +33,5 @@ The Nix is a shapeshifting water spirit found in many Norwegian folk tales. Ofte
 These tales served as cautionary stories, warning children about the dangers of water and the importance of staying alert near lakes and streams.
 
 These folk tales offer a glimpse into Norway's rich cultural heritage, blending natural wonders with supernatural elements, and often imparting moral lessons or explaining natural phenomena. They continue to captivate audiences of all ages, keeping the spirit of Norwegian folklore alive.
+
+[Back to Main Page](README.md)

@@ -1,6 +1,6 @@
 # Norwegian Folk Tales
 
-Norway has a rich tradition of folk tales, passed down through generations. These stories often feature trolls, magical creatures, and clever heroes, reflecting the country's stunning landscapes and cultural values.
+Norway has a rich tradition of folk tales, passed down through generations. These stories often feature trolls, magical creatures, and clever heroes, reflecting the country's stunning [landscapes](Norwegian-folktale-image-depiction.md) and cultural values.
 
 ## Askeladden and His Good Helpers
 

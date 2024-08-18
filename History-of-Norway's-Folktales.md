@@ -39,7 +39,3 @@ Folktales hold a special place in Norwegian culture for several reasons:
 
 - Some folktales were created to explain natural occurrences or local landmarks.
 - These stories blend imagination with real-world observations, creating a rich mythological landscape.
-
-### 5. Oral Tradition and Community Bonding
-
-- The telling of folktales

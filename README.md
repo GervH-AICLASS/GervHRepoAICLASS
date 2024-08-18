@@ -6,6 +6,7 @@ Welcome to our exploration of Norwegian history and folklore!
 
 - [Introduction to Norwegian Folk Tales](introduction-to-norweiganfolktale.md)
 - [History of Norwegian Folktales](History-of-Norway's-Folktales.md)
+- [Norway and its battles throught history](Norway's-Battles.md)
 
 ## About This Project
 

@@ -42,7 +42,7 @@ The Vikings, who were active from the late 8th to the late 11th centuries, pract
 
 ## Transition to Christianity
 
-The Viking Age saw a gradual transition from Norse paganism to Christianity:
+The Viking Age saw a gradual transition from Norse paganism to [Christianity](pagans-vs-christians.md):
 
 - Christianity began to spread in Scandinavia around the 9th-10th centuries.
 - The conversion process was often slow and mixed, with some people practicing both religions.

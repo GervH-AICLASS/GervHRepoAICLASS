@@ -1,6 +1,6 @@
 # Bible Translations into Old Norse
 
-[Back to Main Page](Valhalla.md)
+[Back to Main Page](Differences-in-past-vs-present-Norway.md)
 
 The translation of the Bible into Old Norse was a significant development in the Christianization of Scandinavia and the evolution of Norse literature. This process occurred over several centuries, with different parts of the Bible being translated at different times.
 
@@ -76,4 +76,4 @@ Iceland, being a center of Norse literary activity, produced several important B
 
 The translation of the Bible into Old Norse was a gradual process that played a crucial role in the Christianization of Scandinavia and the development of Norse literature. While complete translations came relatively late compared to some other European languages, partial translations and adaptations of Biblical material were important in the earlier medieval period.
 
-[Back to Main Page](Valhalla.md)
+[Back to Main Page](Differences-in-past-vs-present-Norway.md)

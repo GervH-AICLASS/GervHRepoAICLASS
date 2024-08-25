@@ -2,8 +2,6 @@
 
 [Back to Norwegian Folk Tales Homepage](README.md)
 
-Here is a [picture depicting a classic folktale from Norway]([Uploading Screenshot 2024-08-17 at 7.09.36 PM.png…])
-
 
 ## Scene Description
 

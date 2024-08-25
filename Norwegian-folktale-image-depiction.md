@@ -1,6 +1,9 @@
-# Analysis of Norwegian Folklore-Inspired Image
+<img width="930" alt="Screenshot 2024-08-17 at 7 09 36 PM" src="https://github.com/user-attachments/assets/27b39e6c-d8ec-4d15-8280-e03747addeec"># Analysis of Norwegian Folklore-Inspired Image
 
 [Back to Norwegian Folk Tales Homepage](README.md)
+
+Here is a [picture depicting a classic folktale from Norway]([Uploading Screenshot 2024-08-17 at 7.09.36 PM.png…])
+
 
 ## Scene Description
 

@@ -17,7 +17,7 @@ While Valhalla was a central concept in ancient Norse religion, its role and per
 - Some individuals incorporate the concept of Valhalla into personal, eclectic spiritual practices.
 - May be combined with elements from other belief systems or modern interpretations.
 ### 3. Biblical Recreations
--The bible was translated into Old Norse with one of the earliest translations being the Lord's Prayer
+- The bible was translated into Old Norse with one of the earliest translations being the Lord's Prayer
 
 ## Academic and Cultural Interest
 

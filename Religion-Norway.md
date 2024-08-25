@@ -10,7 +10,7 @@ The Vikings, who were active from the late 8th to the late 11th centuries, pract
 
 2. **Nature-Centric**: Many aspects of nature were personified as deities or associated with them.
 
-3. **Afterlife Beliefs**: Concepts like Valhalla (hall of the slain) for warriors who died in battle.
+3. **Afterlife Beliefs**: Concepts like [Valhalla](Valhalla.md) (hall of the slain) for warriors who died in battle.
 
 4. **Rituals and Sacrifices**: Regular ceremonies and offerings to the gods were common.
 

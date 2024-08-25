@@ -10,7 +10,7 @@ The translation of the Bible into Old Norse was a significant development in the
    - Individual Bible stories and passages were likely translated orally during the early Christianization period.
    - These were used in sermons and for teaching Christian doctrine.
 
-2. **The Lord's Prayer**
+2. **The [Lord's Prayer](https://www.youtube.com/watch?v=DSWXEKChD5M)**
    - One of the earliest known written translations into Old Norse.
    - Various versions exist from the 12th century onwards.
 

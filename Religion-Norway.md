@@ -48,6 +48,6 @@ The Viking Age saw a gradual transition from Norse paganism to [Christianity](Pa
 - The conversion process was often slow and mixed, with some people practicing both religions.
 - By the end of the Viking Age (11th century), most of Scandinavia had officially converted to Christianity.
 
-Norse paganism has experienced a revival in modern times, with some people practicing a reconstructed version of the old religion, often called Ásatrú or Heathenry.
+Norse paganism has experienced a revival in modern times, with some people practicing a reconstructed version of the old religion, often called [Ásatrú](https://www.thorsoak.info/p/asatru.html) or Heathenry.
 
 [Back to Main Page](README.md)

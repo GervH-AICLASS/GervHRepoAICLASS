@@ -1,5 +1,7 @@
 # Scandinavian Bands Redefining Norse Folk Music
 
+[Back to Norway Past and Present](Differences-in-past-vs-present-Norway.md)
+
 ## Overview
 There's a growing trend of Scandinavian bands exploring Norse folk music and mythology, blending ancient traditions with modern musical styles.
 

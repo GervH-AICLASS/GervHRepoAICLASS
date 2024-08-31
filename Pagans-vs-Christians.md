@@ -1,5 +1,7 @@
 # Religious Conflicts: Norse Pagans vs Christians
 
+(https://pfst.cf2.poecdn.net/base/image/a6b58f1c12c89051407f02c7daf32109f52538a8988a605552f2f562f32bf4fc?w=1024&h=1024&pmaid=139392766)
+
 [Back to Main Page](README.md)
 
 The clash between Norse paganism and Christianity was a significant aspect of the Viking Age and the subsequent Christianization of Scandinavia. This conflict was not always violent, but it did involve cultural, political, and sometimes military confrontations.

@@ -1,5 +1,9 @@
 # Popular Music of Norway
 
+[Back to Hilmer Festival Page](HilmerFestival-song.md)
+
+[Back to Main Page](README.md)
+
 Norway has made significant contributions to the Nordic popular music scene, producing several internationally recognized artists and bands. Here's an overview of Norway's popular music landscape:
 
 ## Notable Artists

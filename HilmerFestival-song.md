@@ -14,7 +14,7 @@ You can listen to "The Whispering Pines Festival" by @gamelandigitalaudio808 on 
 
 ## About the Song
 
-"The Whispering Pines Festival" is a song created using Suno, a platform for AI-assisted music creation and sharing. The title evokes imagery of a naturalistic setting, possibly featuring pine trees and a festival atmosphere.
+"The Whispering Pines Festival" is a song created using Suno, a platform for AI-assisted music creation and sharing. The title evokes imagery of a naturalistic setting, possibly featuring pine trees and a festival atmosphere. This song was inspired by the common Hilmer Festival that is hosted in Norway featuring classical folktale representations of songs, and other merriment.
 
 ## About Suno
 

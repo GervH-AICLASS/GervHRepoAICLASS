@@ -9,6 +9,7 @@ Welcome to our exploration of Norwegian history and folklore!
 - [Norway and its battles throught history](Norway's-Battles.md)
 - [Norway and its religious history](Religion-Norway.md)
 - [Norway past and present](Differences-in-past-vs-present-Norway.md)
+- [Norway and its music](HilmerFestival-song.md)
 ## About This Project
 
 This repository contains information about Norwegian history and a collection of traditional Norwegian folk tales. Click on the links above to explore different topics.

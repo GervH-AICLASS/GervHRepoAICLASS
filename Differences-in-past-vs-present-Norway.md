@@ -51,7 +51,7 @@ While Valhalla was a central concept in ancient Norse religion, its role and per
 ### 4. Music
 
 - Referenced in various music genres, particularly metal and folk music.
-- Some bands [incorporate Norse mythology](https://www.the-independent.com/arts-entertainment/music/features/wardruna-interview-norse-folk-music-bands-viking-b1791120.html) including Valhalla, into their lyrics and imagery.
+- Some bands [incorporate Norse mythology](Scandi-bands.md) including Valhalla, into their lyrics and imagery.
 
 ## Modern Interpretations and Symbolism
 

@@ -1,7 +1,6 @@
 # The Whispering Pines Festival
 
-[← Back to Main Page](../README.md)
-
+[← Back to Main Page](README.md)
 This document provides information about "The Whispering Pines Festival" song created on Suno.
 
 ## Listen to the Song

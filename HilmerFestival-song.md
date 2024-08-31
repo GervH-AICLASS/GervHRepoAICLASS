@@ -26,4 +26,6 @@ Suno is an online platform that allows users to create, share, and discover musi
 
 [↑ Back to Top](#the-whispering-pines-festival)
 
+[To Popular Music of Norway](Popular-music.md)
+
 [← Back to Main Page](README.md)
